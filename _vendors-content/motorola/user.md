@@ -16,6 +16,7 @@ A new option in some of the Motorola phones, enhanced by unknown AI algorithms. 
   </figure>
 
 </div>
+thank you.
 
 
 ## Allow background usage
